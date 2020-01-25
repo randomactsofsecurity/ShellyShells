@@ -2,8 +2,7 @@
 
 This repository contains a basic reverse shell written in golang.
 
-The project is a slightly modified version of the initial hershell golang reverse shell, needs additional work to bypass other AV vendors.
-`https://sysdream.com/news/lab/2018-01-15-en-golang-for-pentests-hershell/`
+The project is a slightly modified version of the initial [hershell golang reverse shell](https://sysdream.com/news/lab/2018-01-15-en-golang-for-pentests-hershell/), needs additional work to bypass other AV vendors.
 
 ### Build
 ```
